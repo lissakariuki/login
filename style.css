@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: ;
+    --box-shadow: ;
+    --hover-shadow: ;
+    --nav-shadow: ;
+    --light-black: ;
+}
+
+body {
+    font-family:
+}
+
+.container {
+    width: ;
+    margin: ;
+}
+
+form {
+    display: flex;
+    flex-direction: ;
+    margin: ;
+}
+
+form label {
+    margin: ;
+}
+
+form input[type="text"],
+input[type="password"] {
+    height: ;
+    margin: ;
+    border: ;
+    border border-radius: ;
+    padding: ;
+    font-size: ;
+    font-family: ;
+}
+
+form a {
+    margin: ;
+    text-decoration: ;
+    color: ;
+    font-weight: ;
+}
+
+form input[type="submit"] {
+    height: ;
+    background: ;
+    font-size: ;
+    font-family: ;
+    border: ;
+    border-radius: ;
+    color: ;
+    box-shadow: ;
+    cursor: ;
+}
+
+form input[type="submit"]:hover {
+    box-shadow: var();
+    transform: translateY();
+}
+
+.footer h3 {
+    font-size: ;
+    opacity: ;
+}
+
+.footer .images {
+    display: ;
+    height: ;
+    align-items: ;
+    justify-content: ;
+    margin-top: ;
+}
+
+.footer .images image {
+    width: ;
+    border: ;
+    padding: ;
+    border-radius: ;
+    transition: ;
+}
+
+.footer .images image;
+hover {
+    box-shadow: var();
+    cursor: ;
+}
+
+.footer a {
+    float: ;
+    color: ();
+    margin: ;
+}
